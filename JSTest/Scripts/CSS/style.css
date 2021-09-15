@@ -1,0 +1,31 @@
+body{
+    font-size: 24pt;
+    font-family:'Times New Roman';
+    color: rgb(255, 255, 255);
+    background-image: url("/Images/background.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#navbar{
+    background-color: #0a142d;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
+#button{
+    color: #ed5c2b;
+    background-color: #0a142d;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
+#button:hover{
+    color: #0a142d;
+    background-color: #ed5c2b;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
